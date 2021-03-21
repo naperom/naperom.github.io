@@ -29,25 +29,3 @@ sobreLinks.forEach(link => {
         mouseCursor.classList.remove("link-target");
     });
 })
-
- /*
-let img1 = document.querySelector(".img-1");
-let img2 = document.querySelector(".img-2");
-let img3 = document.querySelector(".img-3");
-let img4 = document.querySelector(".img-4");
-
-document.addEventListener("mousemove", e => {
-    img1.setAttribute(
-        "style", "top :" + (e.pageY - 225) + "px; left :" + (e.pageX - 200) + "px"
-    );
-    img2.setAttribute(
-        "style", "top :" + (e.pageY - 225) + "px; left :" + (e.pageX - 200) + "px"
-    );
-    img3.setAttribute(
-        "style", "top :" + (e.pageY - 225) + "px; left :" + (e.pageX - 200) + "px"
-    );
-    img4.setAttribute(
-        "style", "top :" + (e.pageY - 225) + "px; left :" + (e.pageX - 200) + "px"
-    );
-})*/
-
