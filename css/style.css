@@ -538,6 +538,10 @@ main.sobre .sobre-conteudo{
     padding: 0 1rem;
 }
 
+main.sobre .sobre-descricao{
+    margin-left: 4rem;
+}
+
 main.sobre .sobre-descricao p{
     font-family: "editorial new";
     font-style: normal;
